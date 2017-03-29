@@ -1,4 +1,4 @@
-#ÎÊÌâÃèÊö£ºµ¥´Ê·­×ª
+#é—®é¢˜æè¿°ï¼šå•è¯ç¿»è½¬
 #input:     "i am a student."
 #output:    "student. a am i"
 input_Str = "i am a sa student."
